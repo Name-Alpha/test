@@ -1,8 +1,8 @@
 {
-  "name": "Pump Signals",
-  "symbol": "SIGNALS",
-  "description": "AI-Powered Trading Signals Token",
-  "image": "https://pumpsignals.app/logo.png",
+  "name": "Test Token 2022",
+  "symbol": "TEST2022",
+  "description": "Test Token for Token-2022 Program",
+  "image": "https://raw.githubusercontent.com/Name-Alpha/test/main/logo.png",
   "extensions": {
     "website": "https://pumpsignals.app",
     "twitter": "https://x.com/Pumpsignalsapp",
